@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <tittle>To do list</tittle>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h3> add your to do list here </h3>
+  <form id="myForm">
+  <input id="myInput" type="text"
+  <button>add</button>
+  </form>
+
+  <h3>To do list </h3>
+  <ul id="myItem"></ul>
+
+ 
+</body>
+
+</html>
